@@ -1,0 +1,52 @@
+[
+    {
+        "category": "한식",
+        "popular" : [
+            {
+                "image": "zzimdark",
+                "name": "맛있는 찜닭",
+                "rating": 5.0,
+                "review": 200,
+                "store": "재희찜닭",
+                "price": 12400,
+                "sale": 11160
+            },
+            {
+                "image": "kimbab",
+                "name": "모둠김밥",
+                "rating": 4.2,
+                "review": 158,
+                "store": "재인김밥",
+                "price": 9500,
+                "sale": 9120
+            },
+            {
+                "image": "darkbok",
+                "name": "[인기] 황금닭볶음탕",
+                "rating": 4.9,
+                "review": 1251,
+                "store": "홍이네",
+                "price": 16200,
+                "sale": 15780
+            },
+            {
+                "image": "budae",
+                "name": "소세지 가득 부대찌개",
+                "rating": 5.0,
+                "review": 985,
+                "store": "이태리 부대찌개",
+                "price": 13300,
+                "sale": 15780
+            },
+            {
+                "image": "bibimbob",
+                "name": "전주 비빔밥",
+                "rating": 4.6,
+                "review": 216,
+                "store": "비빔비비고",
+                "price": 9800,
+                "sale": 9230
+            }
+        ]
+    }
+]

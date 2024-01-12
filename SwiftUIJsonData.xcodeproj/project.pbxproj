@@ -19,6 +19,8 @@
 		848322702B512D0800ADE5D9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		848322722B512D0B00ADE5D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		848322752B512D0B00ADE5D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8483227D2B512D4900ADE5D9 /* foodsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = foodsData.json; sourceTree = "<group>"; };
+		8483227E2B512D6300ADE5D9 /* cardData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = cardData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8483226E2B512D0800ADE5D9 /* SwiftUIJsonDataApp.swift */,
 				848322702B512D0800ADE5D9 /* ContentView.swift */,
+				8483227C2B512D2900ADE5D9 /* Resource */,
 				848322722B512D0B00ADE5D9 /* Assets.xcassets */,
 				848322742B512D0B00ADE5D9 /* Preview Content */,
 			);
@@ -65,6 +68,15 @@
 				848322752B512D0B00ADE5D9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8483227C2B512D2900ADE5D9 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				8483227D2B512D4900ADE5D9 /* foodsData.json */,
+				8483227E2B512D6300ADE5D9 /* cardData.json */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
